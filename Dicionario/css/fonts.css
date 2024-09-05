@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'reglar';
+    src: url(../fonts/OpenSans_Condensed-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url(../fonts/OpenSans_Condensed-Bold.ttf);
+}
