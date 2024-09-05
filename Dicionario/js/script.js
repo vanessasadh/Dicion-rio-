@@ -1,3 +1,4 @@
+import dicionario from "../js";
 let url = 'https://dictionaryapi.dev/';
 
 document.addEventListener('DOMContentLoaded',function () {
